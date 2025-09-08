@@ -4,4 +4,4 @@
 Этот репозиторий является каркасом для будущего веб-приложения.
 
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://qgame4k.github.io/project1/src/index.html)
+- [Публичная страница на GitHub Pages](https://qgame4k.github.io/project1/index.html)
