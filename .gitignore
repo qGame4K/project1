@@ -1,36 +1,7 @@
-# Создано с помощью https://www.toptal.com/developers/gitignore/api/macos
-# Отредактируйте на https://www.toptal.com/developers/gitignore?templates=macos
-
-### macOS ###
-# Общие
+# Игнорирование служебных файлов ОС
 .DS_Store
-.AppleDouble
-.LSOverride
+Thumbs.db
 
-# Значок должен заканчиваться двумя символами \r
-Icon
-
-# Миниатюры
-._*
-
-# Файлы, которые могут находиться в корневом каталоге тома
-.DocumentRevisions-V100
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
-.VolumeIcon.icns
-.com.apple.timemachine.donotpresent
-
-# Каталоги, которые могут быть созданы на удаленном общем ресурсе AFP
-.AppleDB
-.AppleDesktop
-Сетевая папка «Корзина»
-Временные файлы
-.apdisk
-
-### Патч для macOS ###
-# Файлы, созданные iCloud
-*.icloud
-
-# Конец https://www.toptal.com/developers/gitignore/api/macos.
+# Игнорирование логов и зависимостей
+npm-debug.log*
+node_modules/
